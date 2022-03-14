@@ -1,0 +1,39 @@
+/* Type your code here */
+
+
+/* change the font family and spacing as per your project font */
+.footer{
+	top: 50px;
+	margin-left: 80px;
+	font-size: 18px;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+    text-align:left;
+}
+
+.logo{
+	text-align: right;
+}
+
+.heading{
+	margin-left: 10ch;
+}
+
+h1{
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+	text-shadow: 100ch;
+	font-weight: bolder;
+}
+
+p{
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: normal;
+	font-weight: lighter;
+}
+
+table{
+	font-size:large;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	margin-left: 100px;
+}
